@@ -1,0 +1,31 @@
+Package: pve-web-news
+Description: News displayed on the admin interface
+  <b>Welcome</b> to the Proxmox Virtual Environment!<br><br>
+  For more information please visit our homepage at
+  <a href='http://www.proxmox.com' target='_blank'>www.proxmox.com</a>
+
+Package: lxcdebtpl
+Version: 20200823
+Type: lxc
+OS: debian
+Section: 1keyddhubfree
+Maintainer: github.com/minlearn <minlearn@minlearn.org>
+Architecture: amd64
+Location: lxcdebtpl.tar.xz
+md5sum: 3f7ac8e67d7d7c7d95362e5227ffa714
+sha512sum: 767ad6c127cc7933791ba1c0d38515214ca0613c6d534fd47a8cd9d2bbb6b0ffcef000ee3059c58acd764b117dbf2733dfcd7238639a8306a262326b3e903d98
+Infopage: https://github.com/minlearn/1keyddhubfree-lxcdebtpl
+Description: LXC default image for lxcdebtpl
+
+Package: lxcdebtpl
+Version: 20200823
+Type: lxc
+OS: debian
+Section: 1keyddhubfree
+Maintainer: github.com/minlearn <minlearn@minlearn.org>
+Architecture: arm64
+Location: lxcdebtpl_arm64.tar.xz
+md5sum: 748b74589489079b93f9e30893a01827
+sha512sum: 459464e9a2649808eb45d7d3571bd1537dd2a56e73f9e2b05ded605fd2a131316cbabfd8812e0349eb0a8fd54a678dd257cce768ae60bd859ae8c586595b79ec
+Infopage: https://github.com/minlearn/1keyddhubfree-lxcdebtpl
+Description: LXC default image for lxcdebtpl
